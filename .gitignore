@@ -1,0 +1,8 @@
+.gradle/*
+build/*
+gradle/*
+module/*
+out/*
+output/*
+*.txt
+data/*
